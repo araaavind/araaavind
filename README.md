@@ -12,4 +12,4 @@ Some of my works I'm really proud of are
 - **Popcorn**, a desktop party watch video player
 - wait for it!
 
-![](https://github-readme-stats.vercel.app/api/?username=aravindmathradan&show_icons=true&title_color=000&icon_color=871486&text_color=000000&bg_color=ffffff00&custom_title=Some+stats+for+swag)
+![](https://github-readme-stats.vercel.app/api/?username=aravindmathradan&show_icons=true&title_color=808080&icon_color=871486&text_color=808080&bg_color=ffffff00&custom_title=Some+stats+for+swag)
