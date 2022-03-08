@@ -12,8 +12,6 @@ I usually code stuff that I think, would make life easier for me and someone out
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aravindmathradan&repo=lantern-notes)](https://github.com/aravindmathradan/lantern-notes)
 
-created with amazing [himanibhaisare](https://github.com/himanibhaisare)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aravindmathradan&repo=popcorn)](https://github.com/aravindmathradan/popcorn)
 
 ---
