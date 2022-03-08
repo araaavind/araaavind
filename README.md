@@ -18,4 +18,4 @@ created with amazing [himanibhaisare](https://github.com/himanibhaisare)
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/?username=aravindmathradan&show_icons=true&title_color=000000&icon_color=871486&text_color=000000&bg_color=ffffff&custom_title=Some+stats+for+swag)
+![](https://github-readme-stats.vercel.app/api/?username=aravindmathradan&show_icons=true&title_color=000000&icon_color=871486&text_color=000000&bg_color=ffffff&custom_title=Some+stats+for+swag&include_all_commits=true)
